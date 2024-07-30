@@ -18,5 +18,5 @@ A Password Complexity Checker is a tool designed to evaluate the strength and se
 - The combination and variety of these characters increase the password's complexity, making it harder for malicious actors to guess or brute-force the password.
 
 ## Repository Contents
-- ``PRODIGY_CS_01.py`` : The main Python script containing the implementation of the Caesar Cipher.
+- ``PRODIGY_CS_03.py`` : The main Python script containing the implementation of the Caesar Cipher.
 - ``README.md`` : This file, providing an overview of the task and the project.
